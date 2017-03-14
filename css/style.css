@@ -22,7 +22,9 @@ body {
   margin-top: 50px;
 }
 #intro {
-  background: url(https://source.unsplash.com/WLUHO9A_xik/1200x800)
+  background: url(https://source.unsplash.com/WLUHO9A_xik/1200x800);
+  background-size: cover;
+
 }
 
 .img-responsive {
